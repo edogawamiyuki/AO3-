@@ -1,0 +1,6 @@
+{
+  "name": "AO3 Work Skin 写作排版助手",
+  "description": "专为 AO3 创作者设计的 Work Skin CSS 与正文 HTML 实时预览器、合规校验器与常用排版模板工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
